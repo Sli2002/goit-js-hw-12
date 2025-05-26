@@ -68,3 +68,6 @@ button {
   margin: 30px auto;
   display: block;
 }
+.load-more.hidden {
+  display: none;
+}
