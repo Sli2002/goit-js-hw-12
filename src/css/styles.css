@@ -35,6 +35,9 @@ button {
 }
 
 .loader {
+  margin: 30px auto;
+  display: block;
+
   width: 60px;
   aspect-ratio: 2;
   --_g: no-repeat radial-gradient(circle closest-side, #000 90%, #0000);
@@ -61,6 +64,7 @@ button {
   display: none;
 }
 
-.load-more.hidden {
-  display: none;
+.load-more {
+  margin: 30px auto;
+  display: block;
 }
